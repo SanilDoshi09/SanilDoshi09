@@ -2,7 +2,7 @@
 
 ## About Me
 - 🎓 I’m a Computer Science and Finance graduate from Chapman University.
-- 🔭 I’m currently working on AI-powered YouTube Chatbot Chrome Extension.
+- 🔭 I’m currently working on AI-powered Chrome Extension for the Google AI Hackathon.
 - 🌱 I’m currently learning AI and Machine Learning.
 - 💬 Ask me about tech, designing, art, basketball, gaming, and cooking.
 - 📫 How to reach me: sanildoshi09@gmail.com
@@ -57,5 +57,15 @@
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white)
 
 ## Projects
-[//]: # (Showcase some of your GitHub projects here)
 
+## Projects
+
+### Quantitative Trading Algorithm
+- **Description**: Developed an trading bot using Python and machine learning libraries (Pandas, NumPy) that analyzes stock market data and makes trading decisions based on predictive modeling. Integrated with the yfinance API for advanced analytics.
+- **Technologies**: Python, Pandas, NumPy, OpenAI API
+- **GitHub Link**: [Quantitative Trading Algo Repository]([https://github.com/yourGitHubUsername/AITradingBot](https://github.com/SanilDoshi09/Quantitative-Trading-Algorithm))
+
+### Cloud-Enabled Web Application
+- **Description**: Engineered a scalable, cloud-native web application to showcase Lebron James's Legacy. Utilized AWS services (EC2, Lambda, S3, Route 53, CloudFront) for hosting, storage, and DNS. Implemented the frontend with React.js and backend with Node.js and Express.
+- **Technologies**: AWS (EC2, Lambda, S3, Route 53, CloudFront), React.js, Node.js, Express, HTML5, CSS3
+- **GitHub Link**: [Cloud Web App Repository](https://www.islebronthegoat.xyz)
